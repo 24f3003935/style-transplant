@@ -1,0 +1,8 @@
+{
+  "prompt": "Victorian microscopic scientific illustration plate, 19th century naturalist style (1850s–1880s), depicting embedding space as a field of microscopic organisms arranged by similarity. A single continuous observation field showing numerous distinct biological specimens (protozoa, diatoms, radiolaria-like forms) distributed across the page. Similar organisms appear close together, forming natural groupings, while different forms are spaced farther apart. Fine ink linework, intricate stippling shading, engraved texture, delicate organic symmetry, and high biological detail. Subtle spatial organization replaces axes: no grid or chart, but proximity clearly encodes relationships. Gradual transitions between species types across the field. Minimal annotations in handwritten-style serif labels, occasional specimen tags, and small scale indicators. Aged parchment background, muted sepia tones, authentic 19th century microscopy plate composition. --no axes, no charts, no modern symbols, no digital gradients, no 3D rendering, no glossy effects",
+  "model": "Ideogram 2",
+  "concept": "Embeddings (Vector Representation of Data)",
+  "tradition_name": "Victorian Microscopic Illustration",
+  "tradition_period": "1850s–1880s",
+  "tradition_approach": "Used stippled ink linework, continuous observation field, and spatial proximity of organism forms to encode similarity, mirroring naturalist documentation of morphological relationships without explicit axes."
+}
